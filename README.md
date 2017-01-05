@@ -34,6 +34,13 @@ a simple Filipino grammar quiz. the objective of this is to identify the common 
 
 an app that will let you select hairstyle, browse list of accredited barber shops and view price list of services. the app also lets you make a booking to the barbershop. they will do the hairstyle you've selected to the app. user is also able to add side comments regarding what he wants with the hairstyle.
 
+**Features**
+
+* Search barber shops nearest to user's location
+* Rate/Review barber shops
+* Save your loved haircuts for future reference
+* Able to schedule user's haircut
+
 
 
 
