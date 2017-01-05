@@ -25,9 +25,14 @@ an app specifically for runners where they could log their past and upcoming eve
 * Create events/team
 * Weather advice/Weather forecast on upcoming events/
 
-### Filipino Grammar (Idea is like the app Freaking Math)
+### Filipino Grammar Quiz (Idea is like the app Freaking Math)
 
 a simple Filipino grammar quiz. the objective of this is to identify the common mistakes of using Filipino grammars. e.g. usage of "nang vs ng"
+
+### myBarberya
+
+an app that will let you select hairstyle, browse list of accredited barber shops and view price list of services. the app also lets you make a booking to the barbershop. they will do the hairstyle you've selected to the app. user is also able to add side comments regarding what he wants with the hairstyle that he wants.
+
 
 
 
