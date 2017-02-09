@@ -42,5 +42,13 @@ an app that will let you select hairstyle, browse list of accredited barber shop
 * Able to schedule user's haircut
 
 
+### InstaRecipe
+
+an app that will let you input/select ingredients and it will display all possible meals that can be cooked with it.
+
+
+
+
+
 
 
