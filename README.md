@@ -1,8 +1,31 @@
 # app-ideas
 
+
+> GDG Social Good App Ideas
+
+### LibreApp
+An app that will allow professionals/skilled individuals to offer services for free. Example, a barber wants to offer a free haircut to 10 people. Service categories will be displayed to the app. Services like Article writing, drawing, song writing, plumbing are some examples. The app also has its portfolio for professionals/workers together with ratings and reviews. This is a way for them to showcase their talents by giving free services.
+
+### Blood Donations
+An app that will allow individuals to sign up and will be alerted if there are hospitals which needs blood donation or they run out of blood of specific types. This will be based on user's location
+
+### Food Donations
+How about an app that will let others know that one household is giving away a food. It seems awkward but it will be a good way for others to help to the needy. Or donate it to NGO to avoid food wastage
+
+### Stray Pets Adoption
+An app that will let others adopt a pet of yours or stray pets.
+
+### Anonymous Advice
+An app that will let users seek advice from anonymous professionals. Maybe legal, love or anything under the sun.
+
+### Junk Shop (OLX-like)
+An app that will let users upload their junks and will let the junk shops know that this user is selling junks in nearby locations.
+
+### Pangasinan/PH FundMyEducation App
+An app that will let people sponsor a child's education. One condition is that school should be transparent to pupils' GWA (General Weighted Average).
+
+
 > Here is my list of app ideas (mobile/web)
-
-
 
 
 ## Ideas
@@ -45,10 +68,3 @@ an app that will let you select hairstyle, browse list of accredited barber shop
 ### InstaRecipe
 
 an app that will let you input/select ingredients and it will display all possible meals that can be cooked with it.
-
-
-
-
-
-
-
