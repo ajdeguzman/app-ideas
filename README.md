@@ -3,6 +3,20 @@
 
 > GDG Social Good App Ideas
 
+
+
+### Emergency Alert App
+
+An app that will allow nurses, doctors, pediatrician and other healthcare practitioners to signup to an app where they will be alerted in case someone needs a medical assistance in nearby locations. This will be helpful most specially when ambulances are not accessible to remote areas.
+
+### Risaykel (Recycle)
+
+You want to recycle something. But you want a creative one. Like water bottles, magazines, In-cans soda etc. Risaykel is an app that will allow users to search or upload their creative recyclable items. Users who upload should write the instructions or upload videos on how to do the creative output. Example: Doing a mosaic from a magazine.
+
+### Challenge Me!
+
+An app that will contain preloaded sets of challenges or custom challenges where one can challenge a Social Friend. Example, playing a badminton, or solving a rubiks cube. In case they failed, they will donate a little amount to charity.
+
 ### LibreApp
 
 An app that will allow professionals/skilled individuals to offer services for free. Example, a barber wants to offer a free haircut to 10 people. Service categories will be displayed to the app. Services like Article writing, drawing, song writing, plumbing are some examples. The app also has its portfolio for professionals/workers together with ratings and reviews. This is a way for them to showcase their talents by giving free services.
