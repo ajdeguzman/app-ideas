@@ -96,6 +96,6 @@ an app that will let you input/select ingredients and it will display all possib
 
 **Related References:**
 
-* [https://developer.att.com/blog/at-amp-t-mobile-app-hackathon-social-good-la-recap](https://developer.att.com/blog/at-amp-t-mobile-app-hackathon-social-good-la-recap)
-* [http://www.visioneers.io/single-post/2015/05/17/9-great-apps-for-volunteering-and-social-good](http://www.visioneers.io/single-post/2015/05/17/9-great-apps-for-volunteering-and-social-good)
-* [https://www.americanexpress.com/us/small-business/openforum/articles/5-social-apps-for-social-good-that-make-foursquare-seem-silly-1/] (https://www.americanexpress.com/us/small-business/openforum/articles/5-social-apps-for-social-good-that-make-foursquare-seem-silly-1/)
+* https://developer.att.com/blog/at-amp-t-mobile-app-hackathon-social-good-la-recap
+* http://www.visioneers.io/single-post/2015/05/17/9-great-apps-for-volunteering-and-social-good
+* https://www.americanexpress.com/us/small-business/openforum/articles/5-social-apps-for-social-good-that-make-foursquare-seem-silly-1/
