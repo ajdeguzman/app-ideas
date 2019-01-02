@@ -92,6 +92,20 @@ an app that will let you select hairstyle, browse list of accredited barber shop
 
 an app that will let you input/select ingredients and it will display all possible meals that can be cooked with it.
 
+** Others **
+* Food Sharing (To a specific Barangay)
+* Item Sharing (Freegalo) 
+* Rent Anything
+* Finding Vulcanize Shop
+* App for letting people share who they have a crush on
+* Message in a bottle like app. Pero advertisement
+* Social Trash Picking App (kunwari sa may bodies of water, or mountain)
+* Slack for Families
+* free services app
+* EcoPoints - use eco-friendly thinks like ecobag when buying groceries, straws for drinks and get points
+* Running Planner
+* Mountain Activities App
+* Gasul Delivery Tracker for Distributors
 
 
 **Related References:**
