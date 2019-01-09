@@ -1,9 +1,6 @@
 # app-ideas
 
 
-> GDG Social Good App Ideas
-
-
 
 ### Emergency Alert App
 
