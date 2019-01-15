@@ -89,6 +89,10 @@ an app that will let you select hairstyle, browse list of accredited barber shop
 
 an app that will let you input/select ingredients and it will display all possible meals that can be cooked with it.
 
+### Comments Analyzer
+
+Analyze comments in a post where you can get the number of occurence of word/s, highest reactions by comment id
+
 ** Others **
 * Food Sharing (To a specific Barangay)
 * Item Sharing (Freegalo) 
