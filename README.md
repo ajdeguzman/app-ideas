@@ -93,6 +93,10 @@ an app that will let you input/select ingredients and it will display all possib
 
 Analyze comments in a post where you can get the number of occurence of word/s, highest reactions by comment id
 
+### Multisport Events Aggregator and Planner
+
+An app that aggregates multisport events such as swimming, trail running, ultras, hiking, biking (duathlons), triathlons, marathons etc. And let users plan, save, view details of such event
+
 ** Others **
 * Food Sharing (To a specific Barangay)
 * Item Sharing (Freegalo) 
