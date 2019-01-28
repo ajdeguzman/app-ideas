@@ -22,6 +22,10 @@ An app that will allow professionals/skilled individuals to offer services for f
 
 An app that will allow individuals to sign up and will be alerted if there are hospitals which needs blood donation or they run out of blood of specific types. This will be based on user's location
 
+### San Kakain?
+
+An app that let users create a room where members can join and submit their suggestions on where to eat.
+
 ### Food Donations
 
 How about an app that will let others know that one household is giving away a food. It seems awkward but it will be a good way for others to help to the needy. Or donate it to NGO to avoid food wastage
